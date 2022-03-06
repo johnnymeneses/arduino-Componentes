@@ -15,11 +15,7 @@ Lista de Componentes
 ```
 
 
-Teste de Modificação no Linux
-
-
-
-https://img.shields.io/badge/Desenvolvimento-100%25-brightgreen
+![Github] (https://img.shields.io/badge/Desenvolvimento-100%25-brightgreen)
 
 
 ### Using PlatformIO
