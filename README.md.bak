@@ -1,4 +1,6 @@
 
+![ArduinoJson](basicoLED.png)
+
 
 /*==============================================================================
 Autor:        Johnny Meneses [bilbo_vader@outlook.com]
@@ -14,6 +16,7 @@ Teste de Modificação no Linux
 
  *===========================================================================*/  
 
+https://img.shields.io/badge/Desenvolvimento-100%25-brightgreen
 
 
 ### Using PlatformIO
@@ -30,4 +33,4 @@ Linux 32/64, and Linux ARM (like Raspberry Pi, BeagleBone, CubieBoard).
   custom settings, uploading to SPIFFS, Over-the-Air (OTA), staging version
 - [Integration with Cloud and Standalone IDEs](https://docs.platformio.org/en/latest/ide.html?utm_source=arduino-esp8266) -
   Cloud9, Codeanywhere, Eclipse Che (Codenvy), Atom, CLion, Eclipse, Emacs, NetBeans, Qt Creator, Sublime Text, VIM, Visual Studio, and VSCode
-- [Project Examples](https://docs.platformio.org/en/latest/platforms/espressif8266.html?utm_source=arduino-esp8266#examples)
+- [Project Examples](https://docs.platformio.org/en/latest/platforms/espressif8266.html?utm_source=arduino-esp8266#examples)		
